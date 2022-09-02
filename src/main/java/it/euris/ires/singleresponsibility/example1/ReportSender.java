@@ -1,4 +1,4 @@
-package it.euris.ires.singleresponsibility;
+package it.euris.ires.singleresponsibility.example1;
 
 import java.util.Map;
 

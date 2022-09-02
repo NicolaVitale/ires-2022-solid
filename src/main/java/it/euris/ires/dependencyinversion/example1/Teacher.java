@@ -1,4 +1,4 @@
-package it.euris.ires.dependencyinversion;
+package it.euris.ires.dependencyinversion.example1;
 
 public class Teacher {
 

@@ -1,4 +1,4 @@
-package it.euris.ires.liskov;
+package it.euris.ires.liskov.example1;
 
 public interface Duck {
 

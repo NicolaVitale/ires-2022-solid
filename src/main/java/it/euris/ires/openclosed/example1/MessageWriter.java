@@ -1,4 +1,4 @@
-package it.euris.ires.openclosed;
+package it.euris.ires.openclosed.example1;
 
 public class MessageWriter {
 
