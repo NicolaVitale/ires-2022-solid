@@ -1,4 +1,4 @@
-package it.euris.ires.interfacesegregation;
+package it.euris.ires.interfacesegregation.example1;
 
 public interface PetClub {
   void greetDog(String name);
